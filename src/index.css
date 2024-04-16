@@ -1,0 +1,25 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+}
+
+.bg__black {
+  background-color: rgb(4, 11, 19);
+}
+
+.gradient-purple-bg {
+  background: linear-gradient(
+    45deg,
+    #29abe2,
+    #8e98df,
+    #cda9e8,
+    #f2bbb7,
+    #fff893
+  );
+}
+
+.background__positive {
+  background: #ffffff;
+}
